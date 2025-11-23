@@ -1,4 +1,5 @@
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/d22b5358-415e-4f7d-ab25-922b14ad2e97" />
+
 # 👗 Sustainable Fashion Marketplace — End-to-End Data Analysis Project  
 ### **Author: Vera Malavolti**  
 *Final Project — Master in Data Analysis*
@@ -12,6 +13,7 @@ The full presentation with visual insights is available in the project PDF.
 
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/ca90ba6a-0a8e-46b7-a6db-9f0dc2df1f16" />
+
 ## 🧠 Objectives  
 - Analyze **temporal trends** in sales  
 - Identify **seller clusters** and understand their behavior  
@@ -26,6 +28,7 @@ The full presentation with visual insights is available in the project PDF.
 - **Jupyter Notebook** — full EDA workflow  
   
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/b6015336-c8b5-40cd-a177-b56e8fa10b85" />
+
 ## 📦 Dataset Description  
 The dataset includes detailed attributes for each sale, such as:  
 - Product category & designer  
@@ -39,6 +42,7 @@ The dataset includes detailed attributes for each sale, such as:
 *(Dataset structure shown in PDF, p.3)* :contentReference[oaicite:1]{index=1}
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/f65dade2-05da-40ac-a1df-8e854b7bcd47" />
+
 ## **Dataset Structure and Features**
 The dataset contains all transactions completed by sellers on a second-hand fashion marketplace.  
 Each row corresponds to a single sale and includes details on products, users, and context.  
@@ -66,6 +70,7 @@ These attributes enabled a multi-layer analysis on:
 
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/4d6c518a-8e19-4d5b-aa40-16920e631cd5" />
+
 ## **Analytical Pipeline**
 The project follows a structured workflow (Slide 4):  
 :contentReference[oaicite:3]{index=3}
@@ -98,6 +103,7 @@ This multi-tool approach ensures a complete journey from raw data to strategic i
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/da1624da-f71a-4d99-80db-59a0f68dff90" />
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/c16caf4a-bfc2-4512-af69-301397319237" />
+
 ## **Seller Clusters & Behavior Patterns**
 The user base was segmented into three personas using behavioral indicators:  
 :contentReference[oaicite:4]{index=4}
@@ -126,6 +132,7 @@ The user base was segmented into three personas using behavioral indicators:
 - **Improve Jenny** → training, commission discounts, better product presentation  
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/e4aa68d5-4cef-4c54-a6ca-e2ccb7862a98" />
+
 ## **Temporal Trend Analysis**
 Slide 9 reveals the evolution of sales over time.  
 :contentReference[oaicite:5]{index=5}
@@ -137,6 +144,7 @@ Slide 9 reveals the evolution of sales over time.
 - The platform is shifting toward a **value-driven model** with more premium transactions.  
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/ab3eff8d-3e17-4093-9057-f05f095f7133" />
+
 ## **Category Performance**
 Not all product categories contribute equally to marketplace success.  
 :contentReference[oaicite:6]{index=6}
@@ -166,6 +174,7 @@ Useful for diversifying the marketplace offer and attracting different audience 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/e06f0d6f-d202-430e-9f7f-c405c5f3cece" />
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/9cdce801-1e86-4c2e-90c2-3899303ec279" />
+
 ## **Device/Platform Analysis**
 The platform analysis (Slide 12) highlights key differences:  
 :contentReference[oaicite:7]{index=7}
@@ -202,23 +211,5 @@ The platform analysis (Slide 12) highlights key differences:
 - Full PDF report  
 
 ---
-
-# 🗂️ Project Structure  
-/data
-fashion_data.csv
-fashion_sales.db
-/sql
-cleaning.sql
-transforms.sql
-/notebooks
-01_sql_preparation.ipynb
-02_eda.ipynb
-03_clustering.ipynb
-/tableau
-dashboard.twbx
-README.md
-
-pgsql
-Copia codice
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/5f0b2315-ceb2-4b78-8f69-9eed13ae1e3a" />
