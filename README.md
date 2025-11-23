@@ -41,7 +41,6 @@ The dataset includes detailed attributes for each sale, such as:
 ## **Dataset Structure and Features**
 The dataset contains all transactions completed by sellers on a second-hand fashion marketplace.  
 Each row corresponds to a single sale and includes details on products, users, and context.  
-:contentReference[oaicite:2]{index=2}
 
 ### **Main Variables Included**
 - `purchase_date` — date of transaction  
@@ -96,8 +95,7 @@ This multi-tool approach ensures a complete journey from raw data to strategic i
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/c16caf4a-bfc2-4512-af69-301397319237" />
 
 ## **Seller Clusters & Behavior Patterns**
-The user base was segmented into three personas using behavioral indicators:  
-:contentReference[oaicite:4]{index=4}
+The user base was segmented into three personas using behavioral indicators
 
 ### **1️⃣ Jenny Humphrey — The Mass Sellers**
 - Represent **~40%** of all users  
@@ -132,7 +130,7 @@ Slide 9 reveals the evolution of sales over time.
 - Sales show **steady and consistent growth**, especially from early 2022.  
 - Growth is driven primarily by the **premium segment**, which increases month after month.  
 - **Budget** and **mid** segments fluctuate more, but provide essential baseline volume.  
-- The platform is shifting toward a **value-driven model** with more premium transactions.  
+- The platform is shifting toward a **value-driven model** with more premium transactions.
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/ab3eff8d-3e17-4093-9057-f05f095f7133" />
 
