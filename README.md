@@ -8,9 +8,6 @@
 This project provides a complete analytical workflow on a **second-hand fashion marketplace dataset**, transforming raw transactional data into **strategic insights** through SQL, Python and Tableau.  
 The analysis highlights sales trends, user clusters, high-impact product categories, and platform performances, enabling data-driven decisions to optimize product quality, user retention, and marketplace growth.
 
-The full presentation with visual insights is available in the project PDF.  
-*(“Sustainable Fashion: Data Analysis of a Second-Hand Clothing Marketplace”)* :contentReference[oaicite:0]{index=0}
-
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/ca90ba6a-0a8e-46b7-a6db-9f0dc2df1f16" />
 
@@ -38,8 +35,6 @@ The dataset includes detailed attributes for each sale, such as:
 - Device/platform of the transaction  
 - Purchase date  
 - Unique seller and product identifiers  
-
-*(Dataset structure shown in PDF, p.3)* :contentReference[oaicite:1]{index=1}
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/f65dade2-05da-40ac-a1df-8e854b7bcd47" />
 
@@ -70,10 +65,6 @@ These attributes enabled a multi-layer analysis on:
 
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/4d6c518a-8e19-4d5b-aa40-16920e631cd5" />
-
-## **Analytical Pipeline**
-The project follows a structured workflow (Slide 4):  
-:contentReference[oaicite:3]{index=3}
 
 ### **🔹 SQL**
 Used to clean and structure the raw dataset into a relational database, generating aggregated views such as:
