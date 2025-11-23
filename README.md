@@ -166,7 +166,59 @@ Useful for diversifying the marketplace offer and attracting different audience 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/e06f0d6f-d202-430e-9f7f-c405c5f3cece" />
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/9cdce801-1e86-4c2e-90c2-3899303ec279" />
+## **Device/Platform Analysis**
+The platform analysis (Slide 12) highlights key differences:  
+:contentReference[oaicite:7]{index=7}
+
+### **📱 Android**
+- **458 sales** → top performer  
+- Stable average rating (~3.0)  
+- Highest percentage of **premium items (20.2%)**  
+
+### **🖥️ PC**
+- **330 sales**  
+- Balanced mix of premium and cheap products  
+- Reflects a more heterogeneous user base  
+
+### **📲 Apple**
+- **211 sales** (lowest)  
+- Ratings aligned with other platforms  
+- High share of premium items → more selective audience  
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/af883959-63bc-4476-8516-3b62e2273937" />
+## **Key Takeaways**
+:contentReference[oaicite:8]{index=8}
+
+- The marketplace is growing, especially in premium sales.  
+- Seller quality varies widely → cluster-based strategies are essential.  
+- A handful of categories generate the majority of value.  
+- Platforms influence purchasing behavior and product mix.  
+- SQL, Python, and Tableau create a strong end-to-end analytical framework.  
+
+### **Included Deliverables**
+- SQL scripts and aggregated views  
+- Python EDA notebooks  
+- Tableau dashboards (public link in presentation)  
+- Full PDF report  
+
+---
+
+# 🗂️ Project Structure  
+/data
+fashion_data.csv
+fashion_sales.db
+/sql
+cleaning.sql
+transforms.sql
+/notebooks
+01_sql_preparation.ipynb
+02_eda.ipynb
+03_clustering.ipynb
+/tableau
+dashboard.twbx
+README.md
+
+pgsql
+Copia codice
 
 <img width="1405" height="786" alt="image" src="https://github.com/user-attachments/assets/5f0b2315-ceb2-4b78-8f69-9eed13ae1e3a" />
